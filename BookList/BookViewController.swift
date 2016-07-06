@@ -29,7 +29,7 @@ class BookViewController: UIViewController, UITableViewDataSource, UITableViewDe
    
    TBD: API Manager and Service layer for separation of concerns and avoidance of a "Massive View Controller"
    TBD: Incorporate AlamoFire for chainable resopnse methods and JSON response serialization
-   TBD; Incorporate SwiftyJson for parsing and serializing JSON
+   TBD: Incorporate SwiftyJson for parsing and serializing JSON
    
    - parameter data: none
    */
